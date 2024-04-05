@@ -1,0 +1,2 @@
+X..Input	ChemicalName	ChemicalId	CasRN	GeneSymbol	GeneId	Organism	OrganismId	PubMedIds
+pcb187	"2,2',3,4',5,5',6-heptachlorobiphenyl"	C000598729		NR1I3	9970	Homo sapiens	9606	26231822

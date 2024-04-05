@@ -1,0 +1,9 @@
+X..Input	ChemicalName	ChemicalId	CasRN	GeneSymbol	GeneId	Organism	OrganismId	PubMedIds
+57653-85-7	"1,2,3,6,7,8-hexachlorodibenzodioxin"	C046838	57653-85-7	AHR	196	Homo sapiens	9606	25654323
+57653-85-7	"1,2,3,6,7,8-hexachlorodibenzodioxin"	C046838	57653-85-7	AR	367	Homo sapiens	9606	18324785
+57653-85-7	"1,2,3,6,7,8-hexachlorodibenzodioxin"	C046838	57653-85-7	CYP1A1	1543	Homo sapiens	9606	20819910|25654323
+57653-85-7	"1,2,3,6,7,8-hexachlorodibenzodioxin"	C046838	57653-85-7	AHR	196	Mus musculus	10090	11046109
+57653-85-7	"1,2,3,6,7,8-hexachlorodibenzodioxin"	C046838	57653-85-7	CYP1A1	1543	Mus musculus	10090	11046109
+57653-85-7	"1,2,3,6,7,8-hexachlorodibenzodioxin"	C046838	57653-85-7	AHR	196	Rattus norvegicus	10116	25654323
+57653-85-7	"1,2,3,6,7,8-hexachlorodibenzodioxin"	C046838	57653-85-7	CYP1A1	1543	Rattus norvegicus	10116	25654323|29738842
+57653-85-7	"1,2,3,6,7,8-hexachlorodibenzodioxin"	C046838	57653-85-7	CYP1B1	1545	Rattus norvegicus	10116	25654323|29738842

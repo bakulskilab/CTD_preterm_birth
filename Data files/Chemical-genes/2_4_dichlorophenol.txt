@@ -1,0 +1,19 @@
+X..Input	ChemicalName	ChemicalId	CasRN	GeneSymbol	GeneId	Organism	OrganismId	PubMedIds
+120-83-2	"2,4-dichlorophenol"	C004762	120-83-2	AR	367	Homo sapiens	9606	16107550
+120-83-2	"2,4-dichlorophenol"	C004762	120-83-2	CAT	847	Homo sapiens	9606	11023648
+120-83-2	"2,4-dichlorophenol"	C004762	120-83-2	DDIT3	1649	Homo sapiens	9606	27853103
+120-83-2	"2,4-dichlorophenol"	C004762	120-83-2	EIF2S1	1965	Homo sapiens	9606	27853103
+120-83-2	"2,4-dichlorophenol"	C004762	120-83-2	ESR2	2100	Homo sapiens	9606	12224631
+120-83-2	"2,4-dichlorophenol"	C004762	120-83-2	HSPA5	3309	Homo sapiens	9606	27853103
+120-83-2	"2,4-dichlorophenol"	C004762	120-83-2	RXRB	6257	Homo sapiens	9606	18207673
+120-83-2	"2,4-dichlorophenol"	C004762	120-83-2	XBP1	7494	Homo sapiens	9606	27853103
+120-83-2	"2,4-dichlorophenol"	C004762	120-83-2	AHR	196	Mus musculus	10090	18294747
+120-83-2	"2,4-dichlorophenol"	C004762	120-83-2	AR	367	Mus musculus	10090	18294747
+120-83-2	"2,4-dichlorophenol"	C004762	120-83-2	ATF6	22926	Mus musculus	10090	25160872
+120-83-2	"2,4-dichlorophenol"	C004762	120-83-2	CASP3	836	Mus musculus	10090	25160872
+120-83-2	"2,4-dichlorophenol"	C004762	120-83-2	DDIT3	1649	Mus musculus	10090	25160872|27853103
+120-83-2	"2,4-dichlorophenol"	C004762	120-83-2	EIF2S1	1965	Mus musculus	10090	25160872
+120-83-2	"2,4-dichlorophenol"	C004762	120-83-2	ERN1	2081	Mus musculus	10090	25160872
+120-83-2	"2,4-dichlorophenol"	C004762	120-83-2	HSPA5	3309	Mus musculus	10090	25160872|27853103
+120-83-2	"2,4-dichlorophenol"	C004762	120-83-2	XBP1	7494	Mus musculus	10090	25160872|27853103
+120-83-2	"2,4-dichlorophenol"	C004762	120-83-2	P4HB	5034	Rattus norvegicus	10116	16617682

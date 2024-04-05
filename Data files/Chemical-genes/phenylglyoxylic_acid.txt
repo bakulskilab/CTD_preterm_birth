@@ -1,0 +1,4 @@
+X..Input	ChemicalName	ChemicalId	CasRN	GeneSymbol	GeneId	Organism	OrganismId	PubMedIds
+611-73-4	phenylglyoxylic acid	C012482	611-73-4	CYP2E1	1571	Homo sapiens	9606	25562543
+611-73-4	phenylglyoxylic acid	C012482	611-73-4	DHRS4	10901	Canis lupus familiaris	9615	17827741
+611-73-4	phenylglyoxylic acid	C012482	611-73-4	EPHX1	2052	Homo sapiens	9606	25562543

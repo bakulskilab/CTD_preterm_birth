@@ -1,0 +1,24 @@
+This repository contains the data files and code used to produce the analyses in the following paper:
+
+A Data Mining Approach Reveals Chemicals Detected at Higher Levels in Non-Hispanic Black Women Target Preterm Birth Genes and Pathways
+
+Abstract
+Background:
+
+Preterm birth occurs disproportionately in the United States non-Hispanic Black population. Black women also face disproportionate exposure to certain environmental chemicals. The goal of this study was to use publicly available toxicogenomic data to identify chemical exposures that may contribute to preterm birth disparities.
+Methods:
+
+We tested 19 chemicals observed at higher levels in the blood or urine of non-Hispanic Black women compared to non-Hispanic White women. We obtained chemical-gene interactions from the Comparative Toxicogenomics Database and a list of genes involved in preterm birth from the Preterm Birth Database. We tested chemicals for enrichment with preterm birth genes using chi-squared tests. We then conducted pathway enrichment analysis for the preterm birth genes using DAVID software and identified chemical impacts on genes involved in these pathways.
+Results:
+
+Genes annotated to all 19 chemicals were enriched with preterm birth genes (FDR-adjusted p-value<0.05). Preterm birth enriched chemicals that were detected at the highest levels in non-Hispanic Black women included methyl mercury, methylparaben, propylparaben, diethyl phthalate, dichlorodiphenyldichloroethylene, and bisphenol S. The preterm birth genes were enriched for pathways including “inflammatory response” (FDR-adjusted p-value=3*10−19), “aging” (FDR-adjusted p-value=4*10−8) and “response to estradiol” (FDR-adjusted p-value=2*10−4). Chemicals enriched with preterm birth genes impacted genes in all three pathways.
+Conclusion:
+
+This study adds to the body of knowledge suggesting that exposures to environmental chemicals contribute to racial disparities in preterm birth and that multiple chemicals drive these effects. These chemicals affect genes involved in biological processes relevant to preterm birth such as inflammation, aging and estradiol pathways.
+
+Citation:
+Harris SM, Colacino JA, Buxton M, Croxton L, Nguyen V, Loch-Caruso R, Bakulski KM. 2022. A data mining approach reveals chemicals detected at higher levels in non-Hispanic Black women target preterm birth genes and pathways. Reproductive Sciences. PMID: 35107823, PMCID: PMC9288534 
+*** Selected as NIEHS extramural paper of the month for April 2022
+*** Selected as an NIEHS paper of the year for 2022
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9288534/
+

@@ -1,0 +1,4 @@
+X..Input	ChemicalName	ChemicalId	CasRN	GeneSymbol	GeneId	Organism	OrganismId	PubMedIds
+90-64-2	mandelic acid	C037938	90-64-2	CYP2E1	1571	Homo sapiens	9606	25562543
+90-64-2	mandelic acid	C037938	90-64-2	EPHX1	2052	Homo sapiens	9606	25562543
+90-64-2	mandelic acid	C037938	90-64-2	SLC16A1	6566	Rattus norvegicus	10116	10714609

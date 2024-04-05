@@ -1,0 +1,16 @@
+X..Input	ChemicalName	ChemicalId	CasRN	GeneSymbol	GeneId	Organism	OrganismId	PubMedIds
+pcb99	"2,2',4,4',5-pentachlorobiphenyl"	C500336		ABCC3	8714	Rattus norvegicus	10116	11752103
+pcb99	"2,2',4,4',5-pentachlorobiphenyl"	C500336		CASP3	836	Homo sapiens	9606	19022367
+pcb99	"2,2',4,4',5-pentachlorobiphenyl"	C500336		CYP2B1	24300	Rattus norvegicus	10116	11752103
+pcb99	"2,2',4,4',5-pentachlorobiphenyl"	C500336		CYP2B1	24300	Rattus norvegicus	10116	11752103
+pcb99	"2,2',4,4',5-pentachlorobiphenyl"	C500336		CYP2B2	361523	Rattus norvegicus	10116	11752103
+pcb99	"2,2',4,4',5-pentachlorobiphenyl"	C500336		CYP2B2	361523	Rattus norvegicus	10116	11752103
+pcb99	"2,2',4,4',5-pentachlorobiphenyl"	C500336		CYP2B6	1555	Homo sapiens	9606	25839716
+pcb99	"2,2',4,4',5-pentachlorobiphenyl"	C500336		NR1I3	9970	Homo sapiens	9606	22664347
+pcb99	"2,2',4,4',5-pentachlorobiphenyl"	C500336		NR1I3	9970	Mus musculus	10090	19746742
+pcb99	"2,2',4,4',5-pentachlorobiphenyl"	C500336		NR1I3	9970	Mus musculus	10090	19746742
+pcb99	"2,2',4,4',5-pentachlorobiphenyl"	C500336		NR1I3	9970	Pusa sibirica	9719	19746742
+pcb99	"2,2',4,4',5-pentachlorobiphenyl"	C500336		NR1I3	9970	Rattus norvegicus	10116	11752103
+pcb99	"2,2',4,4',5-pentachlorobiphenyl"	C500336		NR1I3	9970	Rattus norvegicus	10116	11752103
+pcb99	"2,2',4,4',5-pentachlorobiphenyl"	C500336		SERPINA7	6906	Homo sapiens	9606	19750101
+pcb99	"2,2',4,4',5-pentachlorobiphenyl"	C500336		TSHB	7252	Homo sapiens	9606	19750101

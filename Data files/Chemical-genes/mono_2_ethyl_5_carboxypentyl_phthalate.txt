@@ -1,0 +1,4 @@
+X..Input	ChemicalName	ChemicalId	CasRN	GeneSymbol	GeneId	Organism	OrganismId	PubMedIds
+40809-41-4	2-ethyl-5-carboxypentyl phthalate	C051450	40809-41-4	ADAM33	80332	Homo sapiens	9606	30226539
+40809-41-4	2-ethyl-5-carboxypentyl phthalate	C051450	40809-41-4	CYP2C9	1559	Homo sapiens	9606	23545481
+40809-41-4	2-ethyl-5-carboxypentyl phthalate	C051450	40809-41-4	FLG	2312	Homo sapiens	9606	24380925

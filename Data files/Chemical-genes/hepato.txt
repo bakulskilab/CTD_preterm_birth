@@ -1,0 +1,10 @@
+X..Input	ChemicalName	ChemicalId	CasRN	GeneSymbol	GeneId	Organism	OrganismId	PubMedIds
+heptachlorodibenzodioxin	heptachlorodibenzodioxin	C046839	35822-46-9	AHR	196	Homo sapiens	9606	25654323
+heptachlorodibenzodioxin	heptachlorodibenzodioxin	C046839	35822-46-9	AHRR	57491	Homo sapiens	9606	25654323
+heptachlorodibenzodioxin	heptachlorodibenzodioxin	C046839	35822-46-9	CYP1A1	1543	Homo sapiens	9606	25654323
+heptachlorodibenzodioxin	heptachlorodibenzodioxin	C046839	35822-46-9	AHR	196	Mus musculus	10090	25654323
+heptachlorodibenzodioxin	heptachlorodibenzodioxin	C046839	35822-46-9	CYP1A1	1543	Mus musculus	10090	24472611
+heptachlorodibenzodioxin	heptachlorodibenzodioxin	C046839	35822-46-9	AHR	196	Rattus norvegicus	10116	25654323
+heptachlorodibenzodioxin	heptachlorodibenzodioxin	C046839	35822-46-9	CYP1A1	1543	Rattus norvegicus	10116	25654323|29738842
+heptachlorodibenzodioxin	heptachlorodibenzodioxin	C046839	35822-46-9	CYP1B1	1545	Rattus norvegicus	10116	25654323|29738842
+heptachlorodibenzodioxin	heptachlorodibenzodioxin	C046839	35822-46-9	SRC	6714	Rattus norvegicus	10116	10401681

@@ -1,0 +1,2 @@
+# Input	ChemicalName	ChemicalId	CasRN	GeneSymbol	GeneId	Organism	OrganismId	PubMedIds
+27304-13-8	oxychlordane	C008743	27304-13-8	PPARG	5468	Ursus maritimus	29073	27602593
